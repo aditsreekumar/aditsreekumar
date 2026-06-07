@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there👌
 
 I'm Adit, an aerospace engineering student based in Dubai.
 
