@@ -11,8 +11,8 @@ My main skill sets are Git & GitHub, MATLAB, Simulink, Python, CAD software and 
 I'm slowly trying to build public repos by undertaking a lot of projects which I deem are challenging, and it will help me gain valuable skills.
 
 Fun Facts:
-			- I love a good iced coffee
-      - Hobbies: gym, going to car meets, camping, and using gemini ai
-      - I love to learn the mechanics behind every truck engine
-      - I'm HEAVILY invested in the Apple Ecosystem
+1) I love a good iced coffee
+2) Hobbies: gym, going to car meets, camping, and using gemini ai
+3) I love to learn the mechanics behind every truck engine
+4) My favorite movie is Interstellar
 
